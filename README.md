@@ -1,4 +1,16 @@
 <h1 align="center">Shivpal Rathod | Python & Django Developer</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/shivpalrathod/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:shivpalrathod@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail" />
+</a>
+<a href="https://leetcode.com/u/Rathodshivpal/" target="_blank">
+  <img src="https://img.shields.io/badge/LEETCODE-orange?style=for-the-badge&logo=leetcode" />
+</a>
+</p>
+
 
 <p align="center">
 Python Developer • Django Web Developer • AI Enthusiast
@@ -77,19 +89,4 @@ where I can learn, contribute, and grow as a developer.
 </p>
 
 ---
-
-## 🌐 Connect With Me
-<p align="center">
-<a href="https://www.linkedin.com/in/shivpalrathod/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:shivpalrathod@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail" />
-</a>
-<a href="https://leetcode.com/u/Rathodshivpal/" target="_blank">
-  <img src="https://img.shields.io/badge/LEETCODE-orange?style=for-the-badge&logo=leetcode" />
-</a>
-</p>
-
-
 ⭐ Always learning. Always building.
