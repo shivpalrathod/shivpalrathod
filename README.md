@@ -12,9 +12,11 @@ Python Developer • Django Web Developer • AI Enthusiast
 
 ## 👋 About Me
 
-I am a Computer Science Engineering student and Python developer passionate about building real-world web applications and exploring AI-powered systems.
+## 👋 About Me
 
-I enjoy working on full-stack projects using Django and creating clean, practical solutions that solve everyday problems.
+I am a Computer Science Engineering student and aspiring Python Developer with hands-on experience in building web applications using Django and frontend technologies like HTML, CSS, and JavaScript.
+I enjoy developing real-world projects such as Student Management Systems, AI-based applications, and personal portfolio websites. My interests include web development, Python programming, and exploring Artificial Intelligence concepts.
+I am continuously improving my technical skills by working on projects, solving problems, and learning new technologies. I am currently seeking internship and entry-level opportunities where I can contribute to meaningful projects, gain industry exposure, and grow as a software developer.
 
 ---
 
