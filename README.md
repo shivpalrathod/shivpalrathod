@@ -1,24 +1,30 @@
-# 👋 Hi, I'm **Shivpal Rathod**
+# <h1 align="center">Hi 👋, I'm Shivpal Rathod</h1>
 
-<h3 align="center">Python Developer • Backend Engineer • Full Stack Web Developer • AI Enthusiast</h3>
+<h3 align="center">
+Python Developer | Generative AI Enthusiast | Backend Engineer | Full Stack Web Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Python+Developer;Backend+Developer;Full+Stack+Web+Developer;AI+Application+Developer;Django+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Python+Developer;Generative+AI+Enthusiast;Backend+Engineer;Building+AI+Powered+Applications;Open+Source+Learner;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/shivpalrathod">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/shivpalrathod">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Rathodshivpal">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:shivpalrathod1122@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://github.com/shivpalrathod">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/shivpalrathod">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Rathodshivpal">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:shivpalrathod1122@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -29,19 +35,21 @@
 
 🏫 CMR Technical Campus, Hyderabad
 
-💻 Passionate Python Developer with a strong interest in Backend Development, Full Stack Web Development, and AI-powered applications.
+💻 Passionate Python Developer with a strong interest in Backend Development, Full Stack Web Development, and Generative AI.
 
-🚀 Completed Software Engineer Internship at **Bluestock Fintech**, where I worked on real-world backend features using Python and Django.
+🤖 Currently exploring Large Language Models (LLMs), Prompt Engineering, AI Agents, and AI-powered applications.
 
-💡 I enjoy solving real-world problems through scalable web applications and continuously learning modern technologies.
+🚀 Completed a Software Engineer Internship at Bluestock Fintech, contributing to production-level backend development using Python and Django.
 
-* 🔭 Currently Building: AI-Powered Web Applications
-* 🌱 Currently Learning: React, Django REST Framework, REST APIs, System Design
-* 👯 Looking to collaborate on Open Source Projects
-* 💬 Ask me about Python, Django, JavaScript, Web Development
-* 📫 Email: **[shivpalrathod1122@gmail.com](mailto:shivpalrathod1122@gmail.com)**
+💡 I enjoy building practical software that solves real-world problems using Python, Django, JavaScript, and AI.
+
+* 🔭 Currently Building **AI-Powered Web Applications**
+* 🌱 Currently Learning **Advanced Python, Generative AI, Django REST Framework, React**
+* 🤖 Exploring **LangChain, RAG, AI Agents, Prompt Engineering**
+* 👨‍💻 Portfolio Projects using Python, Django, Node.js & AI
+* 💬 Ask me about **Python, Django, JavaScript, AI, Backend Development**
 * 📍 Hyderabad, India
-* 🎯 Goal: Become a Software Engineer at a Product-Based Company
+* 📫 Email: **[shivpalrathod1122@gmail.com](mailto:shivpalrathod1122@gmail.com)**
 
 ---
 
@@ -49,47 +57,23 @@
 
 ## 💼 Software Engineer Intern — Bluestock Fintech
 
-* Developed backend modules using **Python** and **Django**
-* Worked on production-level fintech web applications
-* Optimized backend performance and fixed application bugs
-* Collaborated using Git, GitHub, and Agile workflows
-* Gained real-world software development experience
+✔ Developed backend features using Python & Django
+
+✔ Worked on a live fintech application
+
+✔ Fixed bugs and optimized backend modules
+
+✔ Collaborated using Git and Agile workflow
+
+✔ Gained experience with production-level development
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Featured Project
 
-## Languages
+## 🤖 PlaceAI – AI Powered Placement Intelligence Platform
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql"/>
-</p>
-
-## Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,flask,react,nodejs,bootstrap"/>
-</p>
-
-## Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"/>
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-</p>
-
----
-
-# 🌟 Featured Project
-
-## 🚀 PlaceAI — AI Powered Placement Intelligence Platform
-
-An AI-powered Placement Management Platform that helps students improve placement readiness through Resume Analysis, ATS Scoring, Job Matching, Interview Management, and AI Career Guidance.
+An AI-powered platform designed to improve placement readiness through Resume Analysis, ATS Scoring, Job Matching, Career Guidance, and Placement Analytics.
 
 ### Features
 
@@ -97,7 +81,7 @@ An AI-powered Placement Management Platform that helps students improve placemen
 * 📄 ATS Score Generator
 * 💼 AI Job Recommendation
 * 🎯 Skill Gap Analysis
-* 📊 Placement Analytics Dashboard
+* 📊 Placement Analytics
 * 📅 Interview Management
 * 🏢 Company Intelligence
 * 🤖 Career AI Assistant
@@ -108,38 +92,30 @@ An AI-powered Placement Management Platform that helps students improve placemen
 
 Node.js • Express.js • MongoDB • EJS • Bootstrap • Gemini AI
 
-👉 **Repository:** https://github.com/shivpalrathod/PlaceAI-Placement-Intelligence-Platform
-
 ---
 
-# 🚀 Other Projects
+# 💼 Other Projects
 
 ## 🤖 AI Python Visual Compiler
 
-* Execute Python code online
-* AI-generated code explanations
-* Step-by-step execution visualization
+* AI-generated Python explanations
+* Execute Python online
+* Step-by-step visualization
 * Beginner-friendly interface
 
 **Tech:** Python • Django • HTML • CSS
-
-👉 Repository:
-https://github.com/shivpalrathod/AI_Python_Visual_Compiler
 
 ---
 
 ## 🎓 Student Management System
 
-* Student CRUD Operations
-* Authentication System
+* Authentication
+* CRUD Operations
 * Role-Based Access
-* Search & Filter
 * SQLite Database
+* Search & Filter
 
 **Tech:** Python • Django • SQLite
-
-👉 Repository:
-https://github.com/shivpalrathod/Student_Management_System
 
 ---
 
@@ -154,6 +130,48 @@ https://github.com/shivpalrathod/Student_Management_System
 
 ---
 
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql"/>
+</p>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,react,nodejs"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
+---
+
+# 📚 Currently Learning
+
+* Advanced Python
+* Django REST Framework
+* React
+* Generative AI
+* LangChain
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* Prompt Engineering
+* REST APIs
+
+---
+
 # 🏆 Certifications
 
 | Certificate                          | Issuer                    |
@@ -161,11 +179,11 @@ https://github.com/shivpalrathod/Student_Management_System
 | Python Django MySQL                  | Infosys Springboard       |
 | Generative AI Powered Data Analytics | Tata Consultancy Services |
 | HTML Essentials                      | Cisco Networking Academy  |
-| Internet of Things                   | NPTEL                     |
+| Internet of Things (IoT)             | NPTEL                     |
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -187,7 +205,7 @@ https://github.com/shivpalrathod/Student_Management_System
 
 ---
 
-# 📊 GitHub Activity Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
 
@@ -219,17 +237,7 @@ https://github.com/shivpalrathod/Student_Management_System
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/shivpalrathod/shivpalrathod/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 📊 Profile Visitors
+# 📈 Profile Views
 
 <p align="center">
 
@@ -263,10 +271,8 @@ https://github.com/shivpalrathod/Student_Management_System
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<h2 align="center">⭐ Thanks for visiting my GitHub Profile! ⭐</h2>
 
-<h4 align="center">
-If you like my projects, don't forget to ⭐ star the repositories.
-</h4>
+<h3 align="center">
+If you like my work, don't forget to ⭐ Star my repositories.
+</h3>
