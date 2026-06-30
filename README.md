@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm Shivpal Rathod</h1>
+# <h1 align="center">Hi 👋, I'm SHIVPAL RATHOD</h1>
 
 <h3 align="center">
 Python Developer | Generative AI Enthusiast | Backend Engineer | Full Stack Web Developer
